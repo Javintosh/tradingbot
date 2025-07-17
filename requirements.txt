@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+ccxt
+python-telegram-bot
+requests
+sqlite3
